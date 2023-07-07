@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="76d032ff-1e44-41f8-ad80-befcddb7c1d5" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/RegexProgram.java" afterDir="false" />
-    </list>
+    <list default="true" id="76d032ff-1e44-41f8-ad80-befcddb7c1d5" name="Changes" comment="initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,10 +35,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Alok Prajapti/IdeaProjects/RegexProblems",
     "onboarding.tips.debug.path": "C:/Users/Alok Prajapti/IdeaProjects/RegexProblems/src/Main.java"
   }
 }]]></component>
   <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RegexProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RegexProgram" />
       <module name="RegexProblems" />

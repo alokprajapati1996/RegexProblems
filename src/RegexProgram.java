@@ -9,7 +9,7 @@ public class RegexProgram {
         boolean b= matcher.matches();
         System.out.println(b);
         //2nd way
-        boolean b1=Pattern.compile(".s").matcher("as").matches();
+        boolean b1=Pattern.compile(".s").matcher("asa").matches();
         System.out.println(b1);
         //3rd way
         boolean b2=Pattern.matches(".s","sa");
